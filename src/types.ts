@@ -1,0 +1,1 @@
+export type FacingType = 'NORTH' |'SOUTH' |'WEST' |'EAST';

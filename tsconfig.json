@@ -1,0 +1,22 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "outDir": "./dist",
+    "sourceMap": true,
+    "module": "commonjs",
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "strict": true,
+    "target": "es6",
+    "lib": [
+      "es2017",
+      "dom",
+      "esnext"
+    ]
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
